@@ -4,6 +4,6 @@ this is merge problem.
 this is third line in master.
 this is fourth line in master.
 now this line will create problem in merging.
-this is merge problemthis is merge problem
+
 this is merge problem
 
