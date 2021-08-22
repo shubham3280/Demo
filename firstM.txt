@@ -1,2 +1,4 @@
 this is first commit.
 this is second commit.
+this is third commit.
+this is fouth line before adding to index.
